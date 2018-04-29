@@ -1,0 +1,9 @@
+name: td_functions
+version: 0.0.1
+description: Custom functions to provide missing Dart functionality
+dependencies:
+author: Jonathan White <thinkdigitalrepair@gmail.com>
+homepage: http://www.thinkdigitalrepair.com
+
+dev_dependencies:
+#  unittest: any
