@@ -4,3 +4,12 @@ String removeEach(String string, String chars) {
   }
   return string;
 }
+
+List<String> toList(String string) {
+  List<String> stringAsList = [];
+
+  for (int i = 0; i < string.length; i++)
+    stringAsList.add(string[i]);
+
+  return stringAsList;
+}
